@@ -7,7 +7,7 @@ function addTask()
 {
     if(input.value === '')
     {
-        alert("You Must Write Something!");
+        alert("Please add any Task!");
     }
     else
     {
